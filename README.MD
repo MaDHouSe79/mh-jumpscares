@@ -1,5 +1,5 @@
 ## qb-jumpscares just for fun
-- just for fun to jumpscare your player on a added location
+- just for fun to jumpscare your player on a specified location(s)
 
 
 ## NOTE for hunted school ymap
