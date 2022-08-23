@@ -37,7 +37,6 @@ end)
 
 for k, v in pairs(Config.JumpScareZones) do
     zones[#zones + 1] = PolyZone:Create({table.unpack(v.vectors)}, {name = v.name})
-    zones[#zones + 1] = zone
 end
 combo = ComboZone:Create(zones, {name = "jumpscareCombo", debugPoly = Config.DebugPoly})
 
