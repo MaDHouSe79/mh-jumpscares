@@ -39,7 +39,7 @@
 - And once you've been inside the school, you can't go back, well you can go outside but you get the jumpscare anyway.
 -
 - The timer is total random, so any player get a jumpscare on a different location in the school, but only 1 time. 
-- The next time it will not work, it will only work again, when you reatart the server. or by `ensure qb-jumpscares`
+- The next time it will not work, it will only work again, when you reatart the server. or by `ensure mh-jumpscares`
 
 
 ## You can also jumpscare by command :D
