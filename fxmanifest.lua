@@ -1,7 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
 
-description 'qb-jumpscares.'
+description 'mh-jumpscares.'
 
 client_scripts {
     '@PolyZone/client.lua',
