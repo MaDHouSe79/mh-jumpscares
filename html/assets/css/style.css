@@ -1,0 +1,20 @@
+#container {
+	padding: 10px;
+	text-shadow: 2px 2px 5px #424242;
+    position: absolute;
+    color: rgb(241, 235, 235);
+    width: 100%;
+    height: 100%;
+    font-size: 45px;
+	text-align: center;
+	background-color: #272727;
+	border: 2px solid #dad9d9 ;
+}
+.small {
+	font-size: 25px;
+}
+
+#spooky {
+	width: 100%;
+	height: 100%;
+}
