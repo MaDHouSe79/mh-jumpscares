@@ -3,7 +3,6 @@
 --[[ ===================================================== ]]--
 
 local script = GetCurrentResourceName()
-local txt
 
 local function checkVersion(err, responseText, headers)
     curVersion = LoadResourceFile(script, "version")
