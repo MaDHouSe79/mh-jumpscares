@@ -31,6 +31,11 @@
 - just for fun to jumpscare your player on specified locations using polyzone and timer
 
 
+## !! ATTENTION !!
+- if you use this mod, don't use it on people who are sensitive to this, people can get really scared with this.
+- especially people with a weak heart should not do this, really keep this in mind.
+
+
 ## NOTE for hunted school ymap
 - if you have the hunted school ymap, you realy have to use this, the secret is inside the school, as far as i tested this, every player has been there,
 - and because they want to know what `The Secret` is and then they get a jumpscare, and you allready know what happens then lol :D
