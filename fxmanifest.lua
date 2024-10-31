@@ -3,7 +3,7 @@ game 'gta5'
 
 author "MaDHouSe"
 description "MH Jumpscares - to scare your players ;)"
-version "1.0"
+version "1.0.0"
 
 shared_scripts {
     'config.lua'
